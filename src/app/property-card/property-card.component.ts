@@ -11,7 +11,7 @@ export class PropertyCardComponent {
   Property: any ={
     "Id": 1,
     "Type":"House",
-    "Name": "Birla House",
+    "Name": "YK House",
     "Price": 1000
 
   }
